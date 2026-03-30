@@ -1,4 +1,10 @@
 content1
+<<<<<<< HEAD
 changrd for cthe pull axampl
 e this changes also for mrege test in git server 
 tets
+=======
+i
+changrd for cthe pull axample
+chnaged content for the test
+>>>>>>> 0185c7a2dfd5c6b2514b1eba4cab73e06e3203b0
